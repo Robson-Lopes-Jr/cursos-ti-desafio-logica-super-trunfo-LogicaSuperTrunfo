@@ -184,5 +184,6 @@ int main () {
     } else {
         printf("Resultado: Carta 2 (%s) venceu!\n", cidade2);
     }
+    
     return 0;
 }
